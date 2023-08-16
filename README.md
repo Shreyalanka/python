@@ -1,3 +1,3 @@
-# Python
-Python Projects which are made to enhance and showcase my python skills.
+# Python Projects
+Basic Projects using Python which contains Data types, Conditional statements
 
